@@ -1,0 +1,23 @@
+{
+  "name": "exercicio_backend_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gustavo França",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongodb": "^4.5.0",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.2.0",
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
